@@ -1,5 +1,5 @@
 # portfolio_1
-SQL and data cleaning demo projects in Jupyter Notebook
+SQL, data cleaning and cohort analysis demo projects in Jupyter Notebook
 
 1. SQL 1 - Analyzing CIA Factbook Data Using SQLite and Python.ipynb : Using SQL and pandas to render .db file as DataFrame ojbect.
 2. SQL 2 - College Majors.ipynb : Using SQL syntax and SQLite 3 within Python to extract info from .db database file.  Uses subqueries to refine the search.
