@@ -5,6 +5,7 @@ SQL, data cleaning and cohort analysis demo projects in Jupyter Notebook
 2. SQL 2 - College Majors.ipynb : Using SQL syntax and SQLite 3 within Python to extract info from .db database file.  Uses subqueries to refine the search.
 3. Data Cleaning Project - Exploring Ebay Car Sales Data : using pandas methods and for loops to clean and analyse a dataset with 50,000 entries.
 4. Cohort Analysis : Simple demo of cohort analysis to understand spending habits of online customers, using seaborn and pyplot to generate a visual heatmap.
+5. Credit Card Database: Using data for credit card clients in Taiwan from April 2005 to September 2005 to perform data exploration, apply decision tree to predict defaults, and using minority data upsampling to address the impact of data imbalance.
 
 Version documentation:
 Jupyter Notebook 5.7.8
