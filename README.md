@@ -8,6 +8,7 @@ SQL, data cleaning and cohort analysis demo projects in Jupyter Notebook
 5. Credit Card Database: Using data for credit card clients in Taiwan from April 2005 to September 2005 to perform data exploration, apply decision tree to predict defaults, and using minority data upsampling to address the impact of data imbalance.
 6. K-Folds and Linear Regression - Predicting House Prices
 7. Decision Trees and Random Forests - Predicting Bike Rentals
+8. Tensorflow Neural Network - Predicting bike rentals
 
 Version documentation:
 Jupyter Notebook 5.7.8
