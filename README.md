@@ -9,6 +9,7 @@ SQL, data cleaning and cohort analysis demo projects in Jupyter Notebook
 6. K-Folds and Linear Regression - Predicting House Prices
 7. Decision Trees and Random Forests - Predicting Bike Rentals
 8. Tensorflow Neural Network - Predicting bike rentals
+9. Keras and TensorFlow - image classification for MNIST Dataset.  Used TensorFlow to build a Convolutional Neural Network (CNN)
 
 Version documentation:
 Jupyter Notebook 5.7.8
